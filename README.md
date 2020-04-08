@@ -1,6 +1,6 @@
 # report-api-sample
 
-A javascript snippet outlining how to run any Brainshark report via the API.
+A javascript sample outlining how to run a Brainshark report via the API.
 
 This sample:
   - Creates a Session
